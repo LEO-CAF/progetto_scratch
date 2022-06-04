@@ -1,0 +1,9 @@
+#box{
+    margin: auto;
+    text-align:center;
+    background-color: rgb(248, 168, 64);
+    font-family:Courier New;
+    width: 800px;
+    color: black;
+    border: solid 5px rgba(255, 115, 0, 0.973);
+}
